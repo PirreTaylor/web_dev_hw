@@ -1,6 +1,9 @@
 .h1 {
   font-family: serif;
 }
+.h2 {
+  fon-family: serif;
+}
 *p {
-  font-family: serif;
+  font-family: monospace;
 }
