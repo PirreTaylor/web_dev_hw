@@ -1,6 +1,9 @@
 body{
   background-color: #ffffcc
 }
+.main-container {
+  background-color: #ffffff
+}
 .h1 {
   font-family: serif;
 }
