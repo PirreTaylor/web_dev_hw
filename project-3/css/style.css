@@ -2,6 +2,9 @@ header {
   background-color: #99cccc;
   padding: 50px;
 }
+h1{
+  color: #663333
+}
 main{
   background-color: #ffffcc;
 }
