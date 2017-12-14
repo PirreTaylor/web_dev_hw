@@ -14,9 +14,14 @@ main{
   background-color: #ffffcc;
 }
 footer{
+  color: #330000;
   background-color: #cc9966
 }
+hr {
+  color #cc9966;
+}
 .h2 {
+  color: #663333;
   font-family: serif;
 }
 .r1{
