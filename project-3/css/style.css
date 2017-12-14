@@ -1,6 +1,5 @@
 body{
-  color: #663333;
-}
+
 header {
   background-color: #99cccc;
   padding: 50px;
@@ -10,6 +9,7 @@ main{
 }
 footer{
   background-color: #cc9966
+}
 }
 .h1 {
   font-family: serif;
