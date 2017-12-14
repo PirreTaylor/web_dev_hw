@@ -1,8 +1,15 @@
+.image {
+  position: relative;
+  width: 100%;
+}
+h1{
+  position: absolute;
+}
 body{
   background-color: #ffffcc
 }
 .main-container {
-  background-color: #ffffff
+  background-color: #fffff
 }
 .h1 {
   font-family: serif;
