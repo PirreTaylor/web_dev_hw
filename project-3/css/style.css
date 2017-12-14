@@ -1,9 +1,10 @@
 header {
+  color: #663333;
   background-color: #99cccc;
   padding: 50px;
 }
 h1{
-  color: #663333
+  color: #663333;
 }
 main{
   background-color: #ffffcc;
@@ -15,7 +16,8 @@ footer{
   font-family: serif;
 }
 .r1{
-
+  color: #663333;
+  font-family: ;
 }
 .r2{
 
