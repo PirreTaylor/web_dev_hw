@@ -2,9 +2,8 @@ header{
   background-color: #99cccc;
   padding: 50px;
 }
-
-.main-container {
-  background-color: #fffff;
+main{
+  background-color: #ffffcc;  
 }
 .h1 {
   font-family: serif;
