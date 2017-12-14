@@ -1,9 +1,11 @@
+body{
 header{
   background-color: #99cccc;
   padding: 50px;
 }
 main{
-  background-color: #ffffcc;  
+  background-color: #ffffcc;
+}
 }
 .h1 {
   font-family: serif;
