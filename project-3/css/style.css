@@ -1,8 +1,5 @@
 body{
-  h1{
-    color: #663333;
-  }
-header{
+  color: #663333;
   background-color: #99cccc;
   padding: 50px;
 }
