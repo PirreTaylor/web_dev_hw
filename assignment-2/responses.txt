@@ -1,0 +1,18 @@
+-On the internet, data is sent and travels in "packets," small pieces of
+information that form a complete unit such as an image or a piece of audio. These packets
+are sent from the initial server and travel along cable networks from router to router
+until they reach the recipient client device, upon which they are pieced back together
+into the full unit that they comprise.
+
+-An IP, or Internet Protocol, address is designated in a way similar to how a location will have a mailing address or
+a telephone will have a number. The IP address gives the device the identification it
+needs in order to connect to the internet and communicate with other devices. A DNS, the Domain Name System,
+assigns a name to the associated IP address. The DNS is a name of a hosted site, and
+allows a user to search for and connect to said site without having to know the IP address of
+the server that is hosting it.
+
+-A cookie is a piece of data sent from the website a user is accessing to the user's computer so that
+the site can record and remember that user's information and interactions with the site.
+
+-The three basic parts of a URL consist of the protocol, the domain name, and
+the path. 
