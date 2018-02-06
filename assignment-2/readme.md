@@ -12,4 +12,4 @@ As this is my second time taking this course, this section was more of a review.
 
 ---
 
-<img src="./images/desktop_workspace_screenshot.jpg" alt="Screenshot of desktop space with Atom running." title="Desktop Workspace" width="600" height="400"/>
+![image](./images/desktop_workspace_screenshot.jpg)
