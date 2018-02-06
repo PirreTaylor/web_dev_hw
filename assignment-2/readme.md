@@ -12,4 +12,4 @@ As this is my second time taking this course, this section was more of a review.
 
 ---
 
-![image](./images/desktop_workspace_screenshot.jpg)
+![image of desktop](./images/desktop_workspace_screenshot.jpg)
