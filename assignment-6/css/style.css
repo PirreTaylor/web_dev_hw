@@ -1,26 +1,40 @@
-*{
-background-color: #ffcc66;
-}
 body{
   width: 800px;
   height: 800px;
   text-align: center;
+  background-color: #ffcc66;
 }
 p {
 font-style: italic;
 }
 p.styled {
-  font-style: bold;
+  font-style: bold !important;
+}
+/* Only the graphic at the top has its opacity styled. */
+#top-image {
+  opacity: 0.5;
 }
 #far {
+text-align: center;
+width: 50px;
+height: 50px;
 color: #ffffff;
+background-color: #ff9933;
 font-size: 100%;
 }
 #out {
+text-align: center;
+width: 70px;
+height: 70px;
 color: #ff9933;
+background-color: #663300;
 font-size: 150%;
 }
 #dude {
+text-align: center;
+width: 90px;
+height: 90px;
 color: #663300;
+background-color: #ffcc44;
 font-size: 200%;
 }
