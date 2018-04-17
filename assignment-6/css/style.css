@@ -3,12 +3,21 @@ background-color: #ffcc66;
 font-style: italic;
 text-align: center;
 }
+p {
+
+}
+p.styled {
+  font-style: bold;
+}
 #far {
 color: #ffffff;
+font-size: 100%;
 }
 #out {
 color: #ff9933;
+font-size: 150%;
 }
 #dude {
 color: #663300;
+font-size: 200%;
 }
