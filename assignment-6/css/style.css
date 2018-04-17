@@ -10,6 +10,11 @@ font-style: italic;
 p.styled {
   font-style: bold !important;
 }
+.container{
+  padding: auto;
+  margin: auto;
+  text-align: center;
+}
 /* Only the graphic at the top has its opacity styled. */
 #top-image {
   opacity: 0.5;
