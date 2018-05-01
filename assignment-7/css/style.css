@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+  color: #ccffff;
+  background-color: #000033;
+}
+hr{
+  border-top: 2px solid #cc33ff;
+  border-bottom: 2px dashed #ffccff;
+  color: #cc33ff;
+  background-color: #cc33ff;
+}
