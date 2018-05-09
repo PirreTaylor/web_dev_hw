@@ -1,0 +1,105 @@
+*{
+font-family: 'Titan One', cursive;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Lato', sans-serif;
+background-color: #FDFDF1;
+}
+h1{
+  color: #303F44;
+  font-family: 'Titan One', cursive;
+  font-kerning: auto;
+  letter-spacing: 5px;
+}
+#eyecatch{
+  color: #ED1701;
+  font-family: 'Titan One', cursive;
+  font-kerning: auto;
+  letter-spacing: 5px;
+}
+#subtitle{
+  color: #303F44;
+  font-family: 'Lato', sans-serif;
+}
+h3{
+  color: #303F44;
+  font-family: 'Titan One', cursive;
+  font-kerning: auto;
+  letter-spacing: 5px;
+}
+p{
+  color: #303F44;
+  font-family: 'Lato', sans-serif;
+}
+strong{
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: bold;
+}
+hr{
+  border: 1px dashed #303F44;
+}
+#left-content{
+  width: 300px;
+  height: 500px;
+}
+#woman{
+position: relative;
+top: 70px;
+left: 0px;
+z-index: 1;
+}
+#content{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  text-align: right;
+  width: 500px;
+  border: 2px solid #303F44;
+  padding: 1em;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#icon-inside{
+  position: relative;
+  right: 200px;
+}
+#icon-outside{
+  position: relative;
+  right: 200px;
+}
+}
+#icon-wastebasket{
+  position: relative;
+  right: 200px;
+}
+#logo{
+  z-index: 2;
+  position: absolute;
+  top: 900px;
+  right:200px;
+}
+#mail-order{
+  z-index: 1;
+  position: absolute;
+  top: 1100px;
+  right: 50px;
+  font-size: 6pt;
+  color: #303F44;
+  font-family: 'Lato', sans-serif;
+  width: 300px;
+  height: 200px;
+  border: 4px dashed #303F44;
+  padding: 30px;
+}
+#form{
+  font-size: 8pt;
+  text-decoration: underline;
+  background-color: #FDFDF1;
+  text-align: left;
+  display: inline-block;
+}
+#form:hover{
+  background-color: #ED1701;
+  text-align: left;
+  display: inline-block;
+}
